@@ -5,30 +5,25 @@
         {
             "name": "Sumanth Rotti",
             "affiliation": "Georgia State University",
-            "email": "srotti@gsu.edu",
             "orcid": "0000-0003-1080-3424"
         },
         {
             "name": "Akhil Arya",
-            "affiliation": "Georgia State University",
-            "email": "aarya2@gsu.edu"
+            "affiliation": "Georgia State University"
         },
         {
             "name": "Berkay Aydin",
             "affiliation": "Georgia State University",
-            "email": "baydin2@gsu.edu",
             "orcid": "0000-0002-9799-9265"
         },
         {
             "name": "Manolis K. Georgoulis",
             "affiliation": "Academy of Athens",
-            "email": "manolis.georgoulis@academyofathens.gr",
             "orcid": "0000-0001-6913-1330"
         },
         {
             "name": "Petrus C. Martens",
-            "affiliation": "Georgia State University",
-            "email": "pmartens@gsu.edu"
+            "affiliation": "Georgia State University"
         }
     ],
     "keywords": [
